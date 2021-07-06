@@ -8,8 +8,6 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
 ``--kc``
 ++++++++
 
-**Before:**
-
 .. code-block:: bash
 
     $ pysyd run -star 3852594
@@ -21,9 +19,11 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
 
     * - .. figure:: figures_advanced/3852594_after.png
     	   :alt: Fit background output plot for KIC 3852594 before ``-kc``.
+    	   
            Fig 1. Before ``-kc``
 
       - .. figure:: figures_advanced/3852594_after.png
       	   :alt: Fit background output plot for KIC 3852594 after ``-kc``.
+
            Fig 2. After ``-kc``
 
