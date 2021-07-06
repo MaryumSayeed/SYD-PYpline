@@ -6,9 +6,8 @@
 Advanced Usage
 #################
 
-Below are examples of how to use specific ``pySYD`` features, as well as plots showing results before and after their usage.
+Below are examples of how to use specific ``pySYD`` features, as well as plots showing results before and after their usage. :ref:`kc <kc example:>` 
 
-* :ref:`kc <kc example:>` 
 * :ref:`npeaks <npeaks example:>` 
 
 .. _kc example:
