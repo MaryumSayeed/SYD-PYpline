@@ -121,9 +121,11 @@ KIC 8801316
 KIC 8801316 is a subgiant, with numax ~1100 muHz. While users may have their own criteria for what classifies as a detection or non-detection, below are some reasons for why we believe this is a detection.
 
 In ``find_excess`` results: 
+
 *  In the bottom panels, we see a clear excess in the collapsed autocorrelation function using each of the step sized
 
 In ``fit_background`` results: 
+
 *  In panel 3, we see a power excess in the heavily smoothed version of the power spectrum (yellow curve)
 *  In panel 5, we see a Gaussian envelope with a slight indication of evenly spaced modes
 *  In panel 6, we see a regular periodicity in the ACF, and the observed Dnu (green dashed line) is similar to the expected Dnu (red dotted line)
@@ -159,9 +161,11 @@ KIC 6278992
 KIC 6278992 is a main-sequence star with no solar-like oscillations. Below are some reasons for why we believe this is a non-detection.
 
 In ``find_excess`` results: 
+
 *  In the bottom panels, there is no obvious numax estimate visible in the collapsed autocorrelation function using each of the step sized, and the SNR is very low
 
 In ``fit_background`` results: 
+
 *  In panel 3, we see no power excess in the heavily smoothed version of the power spectrum (yellow curve)
 *  In panel 5, we see no Gaussian envelope with evenly spaced modes
 *  In panel 6, we see no regular periodicity in the ACF, and the observed Dnu (green dashed line) is significantly different than the expected Dnu (red dotted line)
