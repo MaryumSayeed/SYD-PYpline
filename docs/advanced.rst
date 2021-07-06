@@ -8,8 +8,8 @@ Advanced Usage
 
 Below are examples of how to use specific ``pySYD`` features, as well as plots showing results before and after their usage. 
 
-* :ref:`kc example:` 
-* :ref:`npeaks example` 
+* :ref:`kc example`_ 
+* :ref:`npeaks example`_ 
 
 .. _kc example:
 
