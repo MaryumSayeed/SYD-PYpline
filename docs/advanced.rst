@@ -12,6 +12,7 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
 | Before                                          | After                                                 |
 +=================================================+=======================================================+
 | .. code-block:: bash                            | .. code-block:: bash                                  |
+|												  |														  |
 |    $ pysyd run -star 3852594                    |    $ pysyd run -star 3852594 --kc                     |
 +-------------------------------------------------+-------------------------------------------------------+
 | .. figure:: figures_advanced/3852594_after.png  | .. figure:: figures_advanced/3852594_after.png        |
@@ -25,6 +26,7 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
 | Before                                          | After                                                 |
 +=================================================+=======================================================+
 | .. code-block:: bash                            | .. code-block:: bash                                  |
+|												  |														  |
 |    $ pysyd run -star 10208303                   |    $ pysyd run -star 10208303 -ux 3000                |
 +-------------------------------------------------+-------------------------------------------------------+
 | .. figure:: figures_advanced/10208303_after.png | .. figure:: figures_advanced/10208303_after.png       |
