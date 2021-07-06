@@ -15,9 +15,9 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
     $ pysyd run -star 3852594
 
 .. image:: figures_advanced/3852594_after.png
-   :width: 50%
+   :width: 300
 .. image:: figures_advanced/3852594_after.png
-   :width: 50%
+   :width: 300
 
 
 .. code-block:: bash
