@@ -14,6 +14,20 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
 
     $ pysyd run -star 3852594
 
+.. list-table::
+
+* - .. image:: figures_advanced/3852594_after.png
+
+       Fig 1. Before
+
+  - .. image:: figures_advanced/3852594_after.png
+
+       Fig 2. After
+
+.. code-block:: bash
+
+    $ pysyd run -star 3852594
+
 .. image:: figures_advanced/3852594_after.png
   :width: 600
   :alt: Fit background output plot for KIC 3852594.
