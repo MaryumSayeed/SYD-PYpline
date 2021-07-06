@@ -43,5 +43,4 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
 |    :scale: 50 %                                 |    :scale: 50 %                                       |
 +-------------------------------------------------+-------------------------------------------------------+
 | useful when ``pysyd`` doesn't find the correct peak in the autocorrelation function which results in    |
-| the wrong observed dnu																				  |
 +-------------------------------------------------+-------------------------------------------------------+
