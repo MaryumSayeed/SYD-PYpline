@@ -19,11 +19,20 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
 
     * - .. figure:: figures_advanced/3852594_after.png
     	   :alt: Fit background output plot for KIC 3852594 before ``-kc``.
-    	   
-           Fig 1. Before ``-kc``
+
+           Fig 1. Before
 
       - .. figure:: figures_advanced/3852594_after.png
       	   :alt: Fit background output plot for KIC 3852594 after ``-kc``.
 
            Fig 2. After ``-kc``
 
+2nd way:
+
+
++-------------------------------------------------+-------------------------------------------------------+
+| Before                                          | After                                                 |
++=================================================+=======================================================+
+| .. figure:: figures_advanced/3852594_after.png  | .. figure:: figures_advanced/3852594_after.png        |
+|    :scale: 50 %                                 |    :scale: 50 %                                       |
++-------------------------------------------------+-------------------------------------------------------+
