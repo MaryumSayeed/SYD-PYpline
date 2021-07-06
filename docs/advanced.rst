@@ -1,5 +1,8 @@
 .. _advanced:
 
+.. role:: bash(code)
+   :language: bash
+
 Advanced Usage
 #################
 
@@ -11,10 +14,7 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
 +-------------------------------------------------+-------------------------------------------------------+
 | Before                                          | After                                                 |
 +=================================================+=======================================================+
-| .. code-block:: bash                            | .. code-block:: bash                                  |
-|												  |														  |
-|    $ pysyd run -star 3852594                    |    $ pysyd run -star 3852594 --kc                     |
-|												  |														  |
+| :bash:`pysyd run -star 3852594`.                | :bash:`pysyd run -star 3852594 --kc`.                 |
 +-------------------------------------------------+-------------------------------------------------------+
 | .. figure:: figures_advanced/3852594_after.png  | .. figure:: figures_advanced/3852594_after.png        |
 |    :scale: 50 %                                 |    :scale: 50 %                                       |
