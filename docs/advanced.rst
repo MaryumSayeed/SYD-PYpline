@@ -8,14 +8,16 @@ Advanced Usage
 
 Below are examples of how to use specific ``pySYD`` features, as well as plots showing results before and after their usage. 
 
-* `kc example`_ 
-* `npeaks example`_ 
+- `kc`_ 
+- `npeaks`_ 
 
-.. _kc example:
+====================
 
 
 ``--kc``
 ++++++++
+
+.. _kc:
 
 +--------------------------------------------------+-------------------------------------------------------+
 | Before                                           | After                                                 |
@@ -26,10 +28,11 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
 |    :scale: 50 %                                  |    :scale: 50 %                                       |
 +--------------------------------------------------+-------------------------------------------------------+
 
-.. _npeaks example:
 
 ``--npeaks``
 ++++++++
+
+.. _npeaks:
 
 +-------------------------------------------------+-------------------------------------------------------+
 | Before                                          | After                                                 |
