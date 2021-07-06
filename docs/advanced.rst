@@ -10,7 +10,7 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
 
 ``--kc``
 ++++++++
-.. tabularcolumns:: |c|c||
+.. tabularcolumns:: |c|c|
 
 +-------------------------------------------------+-------------------------------------------------------+
 | Before                                          | After                                                 |
@@ -23,7 +23,7 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
 
 ``--ux``
 ++++++++
-.. tabularcolumns:: |c|c||
+.. tabularcolumns:: |c|c|
 
 +-------------------------------------------------+-------------------------------------------------------+
 | Before                                          | After                                                 |
