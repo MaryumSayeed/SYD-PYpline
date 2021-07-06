@@ -8,12 +8,13 @@ Advanced Usage
 
 Below are examples of how to use specific ``pySYD`` features, as well as plots showing results before and after their usage.
 
-* :ref:`kc<kc>` 
-* :ref:`npeaks<npeaks>` 
+* :ref:`kc <kc>` 
+* :ref:`npeaks <npeaks>` 
 
 
 ``--kc``
 ++++++++
+
 .. _kc:
 
 +--------------------------------------------------+-------------------------------------------------------+
@@ -27,6 +28,7 @@ Below are examples of how to use specific ``pySYD`` features, as well as plots s
 
 ``--npeaks``
 ++++++++
+
 .. _npeaks:
 
 +-------------------------------------------------+-------------------------------------------------------+
